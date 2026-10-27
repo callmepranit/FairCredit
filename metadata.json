@@ -1,0 +1,8 @@
+{
+  "name": "FairCredit AI — Loan Eligibility and Fairness Checking System",
+  "description": "Educational fintech prototype evaluating loan eligibility with deterministic financial calculations, Gemini-powered explanations, and algorithmic fairness auditing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
